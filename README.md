@@ -30,9 +30,9 @@
 
 **作業系統：** Windows
 
-**版本：** 1.4
+**開發日：** 2026/10/20
 
-**修正日：** 2026/10/20
+**存檔相容性：** 新版皆可沿用舊版存檔。
 
 **下載方式：** 於 Releases 頁面下載 EXE 執行檔。
 
@@ -68,9 +68,9 @@ Supports keyboard and PS5 DualSense wireless controllers.
 
 **Operating System:** Windows
 
-**Version:** 1.4
+**Development Date:** 2026/10/20
 
-**Revision Date:** 2026/10/20
+**Save Compatibility:** All newer versions are compatible with save files from previous versions.
 
 **Download:** Download the EXE file from the Releases page.
 
@@ -106,9 +106,9 @@ Supports keyboard and PS5 DualSense wireless controllers.
 
 **対応OS：** Windows
 
-**バージョン：** 1.4
+**開発日：** 2026/10/20
 
-**改訂日：** 2026/10/20
+**セーブデータの互換性：** すべての新しいバージョンで、旧バージョンのセーブデータを引き継げます。
 
 **ダウンロード：** ReleasesページからEXEファイルをダウンロードしてください。
 
@@ -144,9 +144,9 @@ Billentyűzettel és PS5 DualSense vezeték nélküli kontrollerrel is játszhat
 
 **Operációs rendszer:** Windows
 
-**Verzió:** 1.4
+**Fejlesztés dátuma:** 2026/10/20
 
-**Módosítás dátuma:** 2026/10/20
+**Mentések kompatibilitása:** A korábbi verziók mentései minden újabb verzióban tovább használhatók.
 
 **Letöltés:** Az EXE-fájl a Releases oldalon tölthető le.
 
@@ -182,8 +182,8 @@ Gra obsługuje klawiaturę oraz bezprzewodowy kontroler PS5 DualSense.
 
 **System operacyjny:** Windows
 
-**Wersja:** 1.4
+**Data opracowania:** 2026/10/20
 
-**Data aktualizacji:** 2026/10/20
+**Zgodność zapisów gry:** Pliki zapisu z poprzednich wersji są kompatybilne ze wszystkimi nowszymi wersjami.
 
 **Pobieranie:** Plik EXE można pobrać ze strony Releases.
