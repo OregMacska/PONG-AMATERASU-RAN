@@ -17,12 +17,11 @@
 
 ### 操作方式
 
-支援鍵盤及 PS5 DualSense 無線控制器。
+支援鍵盤、PS5 DualSense 無線控制器及其他相容遊戲控制器。
 
 - **鍵盤：** A／D 控制左側球板，←／→ 控制右側球板。
 - **PS5 DualSense：** 左類比搖桿控制左側球板，右類比搖桿控制右側球板。
 - 兩支球板均可同時、獨立操作。
-- 遊戲選單亦支援鍵盤及 PS5 控制器操作。
 
 ### 遊戲資訊
 
@@ -55,12 +54,11 @@ Featuring 50 challenging stages, progressively stronger AI opponents, and a comp
 
 ### Controls
 
-Supports keyboard and PS5 DualSense wireless controllers.
+Supports keyboard, PS5 DualSense wireless controllers, and other compatible game controllers.
 
 - **Keyboard:** A/D controls the left paddle; Left/Right arrow keys control the right paddle.
 - **PS5 DualSense:** The left analog stick controls the left paddle; the right analog stick controls the right paddle.
 - Both paddles can be controlled independently and simultaneously.
-- Menu navigation supports both keyboard and PS5 controllers.
 
 ### Game Information
 
@@ -93,12 +91,11 @@ Supports keyboard and PS5 DualSense wireless controllers.
 
 ### 操作方法
 
-キーボードおよびPS5 DualSenseワイヤレスコントローラーに対応しています。
+キーボード、PS5 DualSenseワイヤレスコントローラー、およびその他の互換ゲームコントローラーに対応しています。
 
 - **キーボード：** A／Dキーで左側のパドル、←／→キーで右側のパドルを操作します。
 - **PS5 DualSense：** 左スティックで左側のパドル、右スティックで右側のパドルを操作します。
 - 2本のパドルを同時に独立して操作できます。
-- メニュー操作もキーボードとPS5コントローラーの両方に対応しています。
 
 ### ゲーム情報
 
@@ -131,12 +128,11 @@ A játék 50 kihívást jelentő pályát, fokozatosan erősödő ellenfeleket, 
 
 ### Irányítás
 
-Billentyűzettel és PS5 DualSense vezeték nélküli kontrollerrel is játszható.
+Billentyűzettel, PS5 DualSense vezeték nélküli kontrollerrel és más kompatibilis játékvezérlőkkel is játszható.
 
 - **Billentyűzet:** Az A/D billentyűk a bal oldali, a balra/jobbra nyílbillentyűk pedig a jobb oldali ütőt irányítják.
 - **PS5 DualSense:** A bal analóg kar a bal oldali, a jobb analóg kar pedig a jobb oldali ütőt irányítja.
 - A két ütő egyszerre és egymástól függetlenül vezérelhető.
-- A menük billentyűzettel és PS5-kontrollerrel egyaránt kezelhetők.
 
 ### Játékinformációk
 
@@ -169,12 +165,11 @@ Gra oferuje 50 wymagających etapów, przeciwników o stopniowo rosnącym poziom
 
 ### Sterowanie
 
-Gra obsługuje klawiaturę oraz bezprzewodowy kontroler PS5 DualSense.
+Gra obsługuje klawiaturę, bezprzewodowy kontroler PS5 DualSense oraz inne kompatybilne kontrolery do gier.
 
 - **Klawiatura:** Klawisze A/D sterują lewą paletką, a strzałki w lewo i w prawo sterują prawą paletką.
 - **PS5 DualSense:** Lewy drążek analogowy steruje lewą paletką, a prawy drążek analogowy prawą paletką.
 - Obie paletki można obsługiwać jednocześnie i niezależnie od siebie.
-- Menu można obsługiwać zarówno klawiaturą, jak i kontrolerem PS5.
 
 ### Informacje o grze
 
